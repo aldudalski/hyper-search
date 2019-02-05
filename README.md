@@ -31,5 +31,3 @@ Alek Zdziarski
 ## License
 
 ISC
-
-[Main repository](https://github.com/jaanauati/hyper-search.git)
